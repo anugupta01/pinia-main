@@ -1,4 +1,4 @@
-# 📮 Pinia Posts App
+# 📮 Pinia Posts🍍Application with Vue 3.5.40💚
 
 A small, single-page **Posts Hub** built with Vue 3, Pinia, and Vue Router. It lets you browse a live feed of posts, open any post to read it in full alongside its author and comment count, and navigate through a themed Welcome and About Us experience. Post data is fetched from the free [JSONPlaceholder](https://jsonplaceholder.typicode.com) mock API.
  
